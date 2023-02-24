@@ -1,24 +1,16 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<meta name="description" content="" />
-<meta name="author" content="" />
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
 <title>Simple Bootstrap RetroMania!</title>
-<!-- Bootstrap core JS-->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-<!-- Core theme JS-->
 <script src="js/scripts.js"></script>
-<!-- Favicon-->
 <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-<!-- Core theme CSS (includes Bootstrap)-->
-<link href="https://drive.google.com/uc?export=view&id=1CHOc_URAeaguoIG_gk7ePfGHAyRWJB37" rel="stylesheet" />
+<link href="https://drive.google.com/uc?export=view&id=1CHOc_URAeaguoIG_gk7ePfGHAyRWJB37" rel="stylesheet"/>
 </head>
 <body style="background-image: url(https://static.vecteezy.com/system/resources/previews/000/117/701/original/vintage-grunge-background-vector.jpg)" ></body>
 <body>
-<!-- Responsive navbar-->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 <div class="container px-5">
 <a class="navbar-brand" href="#!">RetroMania!</a>
