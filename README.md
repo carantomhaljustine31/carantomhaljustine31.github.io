@@ -2,14 +2,14 @@
 <html lang="en">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<meta name="description" content="" />
-<meta name="author" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+<meta name="description" content=""/>
+<meta name="author" content=""/>
 <title>Simple Bootstrap RetroMania!</title>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 <script src="js/scripts.js"></script>
-<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-<link href="https://drive.google.com/uc?export=view&id=1CHOc_URAeaguoIG_gk7ePfGHAyRWJB37" rel="stylesheet" />
+<link rel="icon" type="image/x-icon" href="assets/favicon.ico"/>
+<link href="https://drive.google.com/uc?export=view&id=1CHOc_URAeaguoIG_gk7ePfGHAyRWJB37" rel="stylesheet"/>
 </head>
 <body style="background-image: url(https://static.vecteezy.com/system/resources/previews/000/117/701/original/vintage-grunge-background-vector.jpg)" ></body>
 <body>
