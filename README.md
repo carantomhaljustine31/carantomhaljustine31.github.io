@@ -9,7 +9,7 @@
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="https://drive.google.com/uc?export=view&id=1CHOc_URAeaguoIG_gk7ePfGHAyRWJB37" rel="stylesheet" />
     </head>
     <body style="background-image: url(https://static.vecteezy.com/system/resources/previews/000/117/701/original/vintage-grunge-background-vector.jpg)" ></body>
     <body>
