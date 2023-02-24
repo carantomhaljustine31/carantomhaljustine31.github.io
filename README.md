@@ -52,7 +52,7 @@
                     <div class="card h-100">
                         <div class="card-body">
                             <h2 class="card-title">Coffee Crisis</h2>
-                            <img class="card-img-top" src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_CoffeeCrisis_image1600w.jpg" alt="Card image cap" width="500" height="150">
+                            <img class="card-img-top" src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_CoffeeCrisis_image1600w.jpg" alt="Card image cap" width="500" height="150"/>
                             <p class="card-text">Sometimes you just need a retro blast from the past to kick you in the face. Coffee Crisis is that caffeinated energy that just satisfies a certain craving. Coffee Crisis is the vision of Mega Cat Studios and pays homage back to the classic days of arcade beat-em-ups.</p>
                         </div>
                         <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
