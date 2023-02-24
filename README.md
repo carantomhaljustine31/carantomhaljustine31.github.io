@@ -12,8 +12,9 @@
 </head>
 <style>
 body{
-background-image: url(https://static.vecteezy.com/system/resources/previews/000/117/701/original/vintage-grunge-background-vector.jpg)"
+background-image: url("https://static.vecteezy.com/system/resources/previews/000/117/701/original/vintage-grunge-background-vector.jpg");
 }
+</style>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
 <div class="container px-5">
