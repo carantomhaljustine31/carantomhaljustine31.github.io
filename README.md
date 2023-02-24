@@ -35,7 +35,7 @@
         <div class="container px-4 px-lg-5">
             <!-- Heading Row-->
             <div class="row gx-4 gx-lg-5 align-items-center my-5">
-                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="https://th.bing.com/th/id/OIP.7vCJReDO2EXAIgC-hk8PLwHaEK?pid=ImgDet&rs=1" alt="..." width="900" height="400"/></div>
+                <div class="col-lg-7"><img class="img-fluid rounded mb-4 mb-lg-0" src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/portals_3/2x1_SuperMarioHub_image1600w.jpg" alt="..." width="900" height="400"/></div>
                 <div class="col-lg-5">
                     <h1 class="font-weight-light">RetroMania!</h1>
                     <p text-align:justify>Retrogaming, also known as classic gaming and old school gaming, is the playing and collection of obsolete personal computers, consoles, and video games. Usually, retrogaming is based upon systems that are outmoded or discontinued, although ported retrogaming allows games to be played on modern hardware via ports or compilations. </p>
@@ -52,7 +52,7 @@
                     <div class="card h-100">
                         <div class="card-body">
                             <h2 class="card-title">Coffee Crisis</h2>
-                            <img class="card-img-top" src="https://th.bing.com/th/id/OIP.6l8_ZAvMOix79bSXbmkJaQHaDt?pid=ImgDet&rs=1" alt="Card image cap" width="500" height="150">
+                            <img class="card-img-top" src="https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/H2x1_NSwitchDS_CoffeeCrisis_image1600w.jpg" alt="Card image cap" width="500" height="150">
                             <p class="card-text">Sometimes you just need a retro blast from the past to kick you in the face. Coffee Crisis is that caffeinated energy that just satisfies a certain craving. Coffee Crisis is the vision of Mega Cat Studios and pays homage back to the classic days of arcade beat-em-ups.</p>
                         </div>
                         <div class="card-footer"><a class="btn btn-primary btn-sm" href="#!">More Info</a></div>
